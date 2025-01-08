@@ -1,0 +1,2 @@
+# NOKIA
+Configurações Nokia
